@@ -424,7 +424,9 @@ header.active{
   }
 }
 @media (max-width: 1024px){
- 
+ .shadow-lg-none{
+  box-shadow: none;
+ }
 }
 @media (max-width: 768px){
 
